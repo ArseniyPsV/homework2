@@ -1,0 +1,25 @@
+body {
+  background-color: aqua;
+}
+
+.section-1 {
+  background-color: brown;
+}
+
+.head {
+  padding-left: 10cm;
+  padding-bottom: 100px;
+  background-color: darkgreen;
+}
+
+.section-2 {
+  background-color: chartreuse;
+  padding-top: 2cm;
+  padding-bottom: 2cm;
+}
+
+.foot {
+  background-color: darkgoldenrod;
+  padding-left: 10cm;
+  padding-top: 3cm;
+}
